@@ -1,0 +1,4 @@
+name: AutoRestart
+main: Auto\AutoRestart
+version: 1
+api: 4.0.0
